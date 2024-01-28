@@ -1,1 +1,2 @@
 # Dictionary-Client
+This repository contains the source code for a Java-based dictionary client, designed to provide basic dictionary functionalities through a user-friendly graphical interface. The project adheres to a subset of the DICT protocol, as specified in RFC 2229 (https://tools.ietf.org/html/rfc2229), enabling users to search for word definitions from various dictionaries over a network.
